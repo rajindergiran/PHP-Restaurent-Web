@@ -3,7 +3,8 @@
 
 Web App for Restaurant to manage all tables in the restaurant and have different accounts login for host, waiter, owner, cook, busboy.
 
-project built using bootstrap html css javascript php
+project built using bootstrap html css javascript php 
+Backend in MYSQL Database
 
 
 ![image](https://user-images.githubusercontent.com/32308521/45067788-a2551980-b092-11e8-9a20-1b7041db8778.png)
